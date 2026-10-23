@@ -1,0 +1,14 @@
+torch
+transformers>=4.44
+accelerate
+bitsandbytes
+peft
+trl
+datasets
+sentence-transformers
+weaviate-client>=4.5
+pypdf
+fastapi
+uvicorn
+sqlalchemy>=2.0
+psycopg2-binary
